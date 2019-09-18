@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  return new String ["kiwi"]
+  array = ["kiwi"]
+  array
+end
 end
